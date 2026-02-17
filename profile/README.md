@@ -1,7 +1,5 @@
 # Corpwork
 
-## Objective
-
 This organization aims to automate the provisioning of Software as a Service, applying best practices in the technology market and supporting multiple operational domains with scalability, security, and reliability.
 
 ## Board
