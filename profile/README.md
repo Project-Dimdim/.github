@@ -36,7 +36,7 @@ This organization aims to automate the provisioning of Software as a Service, ap
       <a href="https://github.com/Carmonoca">
         <img src="https://github.com/Carmonoca.png" width="100px;" alt="William Coelho"/><br>
         <sub>
-          <b>Fernanda Coelho</b>
+          <b>Fernanda Carmona</b>
         </sub>
       </a>
     </td>
